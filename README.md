@@ -1,7 +1,7 @@
 ## Basic Machine Learning algorithms
 
 ### Introduction
-This repo includes all of my **weekly practice excercises** in **Course MAT3533 - Machine Learning**, covering some of the **most basic and common ML algorithms** (classification, clustering, neural network, etc.). Oftentimes, each algo is implemented (1)***from scratch*** using maths formulas and (2) through existing ***scikit-learn libraries*** for comparison and better understanding of the original principles.
+This repo includes all of my **weekly practice excercises** in **Course MAT3533 - Machine Learning**, covering some of the **most basic and common ML algorithms** (classification, clustering, neural network, etc.). Oftentimes, each algo is implemented (1) ***from scratch*** using maths formulas and (2) through existing ***scikit-learn libraries*** for comparison and better understanding of the original principles.
 
 ### Contents
 The main algorithm covered each week are:
